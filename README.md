@@ -2,7 +2,7 @@
 
 Bienvenido a **Vacaciones Inolvidables**, un sitio web diseñado para inspirarte a viajar por el mundo y descubrir los mejores destinos turísticos.
 
-![Banner del Sitio](img/playa.jpg)
+![Banner del Sitio](fotos/playa.jpg)
 
 ---
 
